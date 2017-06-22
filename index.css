@@ -1,0 +1,100 @@
+.header {
+    background-image: url(https://static.pexels.com/photos/300332/pexels-photo-300332.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: cover;
+    height: 100vh;
+    max-height: 100vh;
+    text-align: center;
+    font-family: 'Share Tech', sans-serif;
+    
+}
+
+#header {
+    font-family: 'Share Tech', sans-serif;
+}
+
+.kontakt {
+    background-image: url(https://static.pexels.com/photos/269810/pexels-photo-269810.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: cover;
+    height: 50vh;
+    max-height: 50vh;
+    text-align: center;
+    font-family: 'Share Tech', sans-serif;
+}
+.kontakt h1 {
+    font-size: 2.5em;
+    color: white;
+    padding-top: 2vh;    
+}
+
+.kontakt h2 {
+    font-size: 2em;
+    color: white;
+}
+.kontakt li {
+    font-size: 2em;
+    color:white;
+}
+
+
+.kontakt a {
+    font-size: 3em;
+}
+.header h1 {
+    font-size: 4.5em;
+    color: white;
+    padding-top: 30vh;
+}
+
+.header p {
+    font-size: 2.7em;
+    color: white;
+    
+}
+
+footer {
+    position: fixed;
+    border: 0;
+    max-height: inherit;
+    width: 100%;
+    font-family: 'Share Tech', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+hr {
+    max-width: 40%;
+    color: white;
+}
+
+hr2 {
+    max-width: 40%;
+    color: black;
+    
+}
+
+.break {
+    height: 30vh;
+    max-height: 30vh;
+    background-size: cover;
+    background-position: cover;
+    text-align: center;
+    padding-top: 10vh;
+    font-family: 'Share Tech', sans-serif;
+    
+}
+
+#break1 {
+    background-color: greenyellow;
+}
+
+#break2 {
+    background-color: cadetblue;
+}
+
+#break3 {
+    background-color: darkkhaki;
+}
